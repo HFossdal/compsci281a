@@ -8,11 +8,11 @@
 
 | model | link |
 |---|---|
-| original | [wav](abtest_audio/4290_7622_000006_000005/z1/original.wav) |
-| griffinlim_32 | [wav](abtest_audio/4290_7622_000006_000005/z1/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/4290_7622_000006_000005/z1/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/4290_7622_000006_000005/z1/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/4290_7622_000006_000005/z1/stretchaware_teacher_mag.wav) |
+| original | [wav](4290_7622_000006_000005/z1/original.wav) |
+| griffinlim_32 | [wav](4290_7622_000006_000005/z1/griffinlim_32.wav) |
+| baseline | [wav](4290_7622_000006_000005/z1/baseline.wav) |
+| stretchaware_teacher | [wav](4290_7622_000006_000005/z1/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](4290_7622_000006_000005/z1/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -21,10 +21,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/4290_7622_000006_000005/z1.5/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/4290_7622_000006_000005/z1.5/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/4290_7622_000006_000005/z1.5/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/4290_7622_000006_000005/z1.5/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](4290_7622_000006_000005/z1.5/griffinlim_32.wav) |
+| baseline | [wav](4290_7622_000006_000005/z1.5/baseline.wav) |
+| stretchaware_teacher | [wav](4290_7622_000006_000005/z1.5/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](4290_7622_000006_000005/z1.5/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -33,10 +33,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/4290_7622_000006_000005/z2/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/4290_7622_000006_000005/z2/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/4290_7622_000006_000005/z2/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/4290_7622_000006_000005/z2/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](4290_7622_000006_000005/z2/griffinlim_32.wav) |
+| baseline | [wav](4290_7622_000006_000005/z2/baseline.wav) |
+| stretchaware_teacher | [wav](4290_7622_000006_000005/z2/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](4290_7622_000006_000005/z2/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -45,10 +45,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/4290_7622_000006_000005/z3/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/4290_7622_000006_000005/z3/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/4290_7622_000006_000005/z3/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/4290_7622_000006_000005/z3/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](4290_7622_000006_000005/z3/griffinlim_32.wav) |
+| baseline | [wav](4290_7622_000006_000005/z3/baseline.wav) |
+| stretchaware_teacher | [wav](4290_7622_000006_000005/z3/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](4290_7622_000006_000005/z3/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -59,11 +59,11 @@
 
 | model | link |
 |---|---|
-| original | [wav](abtest_audio/rainbow_07_highpitch/z1/original.wav) |
-| griffinlim_32 | [wav](abtest_audio/rainbow_07_highpitch/z1/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/rainbow_07_highpitch/z1/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/rainbow_07_highpitch/z1/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/rainbow_07_highpitch/z1/stretchaware_teacher_mag.wav) |
+| original | [wav](rainbow_07_highpitch/z1/original.wav) |
+| griffinlim_32 | [wav](rainbow_07_highpitch/z1/griffinlim_32.wav) |
+| baseline | [wav](rainbow_07_highpitch/z1/baseline.wav) |
+| stretchaware_teacher | [wav](rainbow_07_highpitch/z1/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](rainbow_07_highpitch/z1/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -72,10 +72,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/rainbow_07_highpitch/z1.5/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/rainbow_07_highpitch/z1.5/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/rainbow_07_highpitch/z1.5/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/rainbow_07_highpitch/z1.5/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](rainbow_07_highpitch/z1.5/griffinlim_32.wav) |
+| baseline | [wav](rainbow_07_highpitch/z1.5/baseline.wav) |
+| stretchaware_teacher | [wav](rainbow_07_highpitch/z1.5/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](rainbow_07_highpitch/z1.5/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -84,10 +84,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/rainbow_07_highpitch/z2/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/rainbow_07_highpitch/z2/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/rainbow_07_highpitch/z2/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/rainbow_07_highpitch/z2/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](rainbow_07_highpitch/z2/griffinlim_32.wav) |
+| baseline | [wav](rainbow_07_highpitch/z2/baseline.wav) |
+| stretchaware_teacher | [wav](rainbow_07_highpitch/z2/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](rainbow_07_highpitch/z2/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -96,10 +96,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/rainbow_07_highpitch/z3/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/rainbow_07_highpitch/z3/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/rainbow_07_highpitch/z3/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/rainbow_07_highpitch/z3/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](rainbow_07_highpitch/z3/griffinlim_32.wav) |
+| baseline | [wav](rainbow_07_highpitch/z3/baseline.wav) |
+| stretchaware_teacher | [wav](rainbow_07_highpitch/z3/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](rainbow_07_highpitch/z3/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -110,11 +110,11 @@
 
 | model | link |
 |---|---|
-| original | [wav](abtest_audio/p335_272_mic1/z1/original.wav) |
-| griffinlim_32 | [wav](abtest_audio/p335_272_mic1/z1/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/p335_272_mic1/z1/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/p335_272_mic1/z1/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/p335_272_mic1/z1/stretchaware_teacher_mag.wav) |
+| original | [wav](p335_272_mic1/z1/original.wav) |
+| griffinlim_32 | [wav](p335_272_mic1/z1/griffinlim_32.wav) |
+| baseline | [wav](p335_272_mic1/z1/baseline.wav) |
+| stretchaware_teacher | [wav](p335_272_mic1/z1/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](p335_272_mic1/z1/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -123,10 +123,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/p335_272_mic1/z1.5/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/p335_272_mic1/z1.5/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/p335_272_mic1/z1.5/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/p335_272_mic1/z1.5/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](p335_272_mic1/z1.5/griffinlim_32.wav) |
+| baseline | [wav](p335_272_mic1/z1.5/baseline.wav) |
+| stretchaware_teacher | [wav](p335_272_mic1/z1.5/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](p335_272_mic1/z1.5/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -135,10 +135,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/p335_272_mic1/z2/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/p335_272_mic1/z2/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/p335_272_mic1/z2/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/p335_272_mic1/z2/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](p335_272_mic1/z2/griffinlim_32.wav) |
+| baseline | [wav](p335_272_mic1/z2/baseline.wav) |
+| stretchaware_teacher | [wav](p335_272_mic1/z2/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](p335_272_mic1/z2/stretchaware_teacher_mag.wav) |
 
 </details>
 
@@ -147,10 +147,10 @@
 
 | model | link |
 |---|---|
-| griffinlim_32 | [wav](abtest_audio/p335_272_mic1/z3/griffinlim_32.wav) |
-| baseline | [wav](abtest_audio/p335_272_mic1/z3/baseline.wav) |
-| stretchaware_teacher | [wav](abtest_audio/p335_272_mic1/z3/stretchaware_teacher.wav) |
-| stretchaware_teacher_mag | [wav](abtest_audio/p335_272_mic1/z3/stretchaware_teacher_mag.wav) |
+| griffinlim_32 | [wav](p335_272_mic1/z3/griffinlim_32.wav) |
+| baseline | [wav](p335_272_mic1/z3/baseline.wav) |
+| stretchaware_teacher | [wav](p335_272_mic1/z3/stretchaware_teacher.wav) |
+| stretchaware_teacher_mag | [wav](p335_272_mic1/z3/stretchaware_teacher_mag.wav) |
 
 </details>
 
