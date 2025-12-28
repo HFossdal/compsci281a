@@ -1,4 +1,5 @@
-# compsci281a project fall 2025
-
 ## A/B test audio
-See [abtest_audio](abtest_audio/README.md)
+
+▶️ Listen in browser (no downloads): https://hfossdal.github.io/compsci281a/player/
+
+Repo files: [abtest_audio](abtest_audio/)
